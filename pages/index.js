@@ -36,11 +36,14 @@ export default function Home() {
         <Link href='https://twitter.com/willschiller' passHref>
         <a target='_blank'><div className='button1'>Twitter</div></a>
         </Link>
-        <Link href='mailto:will.schiller@protonmail.com' passHref>
-        <a target='_blank'><div className='button1'>Email</div></a>
-        </Link>
         <Link href='https://docs.google.com/document/d/1umHAk073lqhFQ6TxY147AtXA_eqQ5amZsIX_-AxrHi4/edit?usp=sharing' passHref>
         <a target='_blank'><div className='button1'>Résumé</div></a>
+        </Link>
+          <Link href='mailto:will.schiller@protonmail.com' passHref>
+        <a target='_blank'><div className='button1'>Email</div></a>
+        </Link>
+        <Link href='https://calendly.com/willschiller' passHref>
+        <a target='_blank'><div className='button1'>Schedule A Call</div></a>
         </Link>
 
 
